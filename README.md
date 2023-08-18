@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**
 
-- 📫 How to reach me **debasishdhal99ddhal@gmail.com**
+- 📫 Reach me at **debasishdhal99ddhal@gmail.com**
 
-- ⚡ I do not have a background on Software Development. **I'm willing to learn and experience more on this field.**
+- ⚡ I do not have a background on Software Development. **I'm learning more about this field as of now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
