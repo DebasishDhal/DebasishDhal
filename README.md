@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Debasish Dhal</h1>
 <h3 align="center">I'm a MSc. graduate in Physics from NISER, Odisha, India.</h3>
 
+- 🌱 I’m currently learning **LLMs/Deep Learning/SQL/App Deployment/Website Design**
+
+- 👯 I’m looking to collaborate on [Youtube Playlist project](https://github.com/DebasishDhal/Youtube_Playlist)
+
+- 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/therealaccoundd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealaccoundd" height="30" width="40" /></a>
