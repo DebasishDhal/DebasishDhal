@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishdhal" alt="debasishdhal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/therealaccoundd" target="blank"><img src="https://img.shields.io/twitter/follow/therealaccoundd?logo=twitter&style=for-the-badge" alt="therealaccoundd" /></a> </p>
-
 - 🔭 I’m proficient with Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
 
 - 🌱 I’m currently learning **LLMs/Deep Learning/SQL/App Deployment/Website Design**
@@ -21,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/therealaccoundd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealaccoundd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debasish-dhal-47644b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasish-dhal-47644b213" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pixel_bear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pixel_bear" height="30" width="40" /></a>
 </p>
