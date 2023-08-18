@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Debasish Dhal</h1>
 <h3 align="center">I'm a MSc. graduate in Physics from NISER, Odisha, India.</h3>
 
+- 🔭 I’m proficient with Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
+
 - 🌱 I’m currently learning **LLMs/Deep Learning/SQL/App Deployment/Website Design**
 
 - 👯 I’m looking to collaborate on [Youtube Playlist project](https://github.com/DebasishDhal/Youtube_Playlist)
 
 - 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**
+
+- 📫 How to reach me **debasishdhal99ddhal@gmail.com**
+
+- ⚡ I do not have a background on Software Development. **I'm willing to learn and experience more on this field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
