@@ -11,13 +11,13 @@
 
 - 🔭 I’m proficient with Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
 
-- 🌱 I’m currently learning **LLMs/Deep Learning/SQL/App Deployment/Web Devlopment**
+- 🌱 I’m currently learning **LLMs/Deep Learning/Web Devlopment**
 
 - 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
-- ⚡ I do not have a background on Software Development. **I'm learning more on this field.**
+- ⚡ I do not have a background in Software Development. **I'm learning more on this field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
