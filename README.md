@@ -11,7 +11,7 @@
 
 - 🔭 I’m proficient with Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
 
-- 🌱 I’m currently learning **LLMs/Deep Learning/Web Devlopment**.
+- 🌱 I’m currently learning **LLMs/Web Devlopment/Deep Learning**.
 
 - 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**.
 
