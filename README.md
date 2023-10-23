@@ -19,7 +19,7 @@
 
 - ⚡ I do not have a background in Software Development. **I'm learning more on this field.**
 
-- Visit [Language Transliteration app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist), [YouTube playlist app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist) or [Random Walk app](https://huggingface.co/spaces/DebasishDhal99/Random-Walk-Visualization) on HuggingFace.
+- 📄 Visit [Language Transliteration app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist), [YouTube playlist app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist) or [Random Walk app](https://huggingface.co/spaces/DebasishDhal99/Random-Walk-Visualization) on HuggingFace.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
