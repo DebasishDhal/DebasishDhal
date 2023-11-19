@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishdhal" alt="debasishdhal" /></a> </p>
 
-- 🔭 I’m proficient with Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
+- 🔭 I’m proficient in Python with a keen interest towards ML and programming in general. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
 
 - 🌱 I’m currently learning **LLMs/Web Devlopment/Deep Learning**.
 
