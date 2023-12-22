@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment/LLMs** and honing my skills on Data manipulation and visualization.
 
-- 💬 Ask me about **Meteorology, Satellite Data Analysis and Statistics.**.
+- 💬 Ask me about **Meteorology, Data Analysis and Statistics.**.
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
