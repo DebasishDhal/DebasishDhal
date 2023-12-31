@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
-- ⚡ I do not have a background in Software Development. **I'm learning more on this field.**
-
 - 📄 Visit [Language Transliteration app](https://huggingface.co/spaces/DebasishDhal99/The-Language-Transliteration-Project), [YouTube playlist app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist) or [Random Walk app](https://huggingface.co/spaces/DebasishDhal99/Random-Walk-Visualization) on HuggingFace.
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +24,7 @@
 <a href="https://twitter.com/therealaccoundd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealaccoundd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debasish-dhal-47644b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasish-dhal-47644b213" height="30" width="40" /></a>
 <a href="https://medium.com/@debasishdhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="debasishdhal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dd99_dunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dd99_dunder" height="30" width="40" /></a>
 <a href="https://huggingface.co/DebasishDhal99" target="blank"><img align="center" src="images/hugging-face-emoji-507x512-v7kpw0rw.png" alt="debasishdhal" height="30" width="40" /></a>
 </p>
 
