@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://huggingface.co/DebasishDhal99" target="blank"><img align="center" src="images/hugging-face-emoji-507x512-v7kpw0rw.png" alt="debasishdhal" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ws7-da8AAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" alt="debasishdhal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debasish-dhal-47644b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasish-dhal-47644b213" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dd99_dunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dd99_dunder" height="30" width="40" /></a>
 <a href="https://twitter.com/therealaccoundd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealaccoundd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debasish-dhal-47644b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasish-dhal-47644b213" height="30" width="40" /></a>
 <a href="https://medium.com/@debasishdhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="debasishdhal" height="30" width="40" /></a>
 </p>
 
