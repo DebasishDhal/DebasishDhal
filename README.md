@@ -15,6 +15,8 @@
 
 - 📄 Visit [Language Transliteration app](https://huggingface.co/spaces/DebasishDhal99/The-Language-Transliteration-Project), [YouTube playlist app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist) or [Random Walk app](https://huggingface.co/spaces/DebasishDhal99/Random-Walk-Visualization) on HuggingFace.
 
+- My few Open-Source contributions are on digital products regularly used by me. They are not hard solutions, but suggestions that can improve them.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://huggingface.co/DebasishDhal99" target="blank"><img align="center" src="images/hugging-face-emoji-507x512-v7kpw0rw.png" alt="debasishdhal" height="30" width="40" /></a>
