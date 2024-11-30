@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment/LLMs** and honing my skills on Data manipulation and visualization.
 
-- 💬 Ask me about **Meteorology, Data Analysis and Statistics.**.
+- 💬 Ask me about **RAG, LLMs, Web Development, Meteorology, Data Analysis and Statistics.**.
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
@@ -50,6 +50,8 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="40" height="40"/> </a>     
 <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematician" width="40" height="40"/> </a>         
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mathematician" width="40" height="40"/> </a>         
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishdhal&show_icons=true&locale=en&layout=compact" alt="debasishdhal" /></p>
