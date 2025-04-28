@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Debasish Dhal</h1>
-<h3 align="center">I'm a MSc. graduate in Physics from NISER, Odisha, India.</h3>
+<h3 align="center">I'm a MSc. graduate in Physics from National Institute of Science Education and Research (<a href="https://www.niser.ac.in/" target="_blank">NISER</a>), Odisha, India.</h3>
+<h3 align="center">I work with <a href="https://huggingface.co/OdiaGenAI" target="_blank">OdiaGenAI</a> on LLM fine-tuning, dataset building, Quantization, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasishdhal&label=Profile%20views&color=0e75b6&style=flat" alt="debasishdhal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishdhal" alt="debasishdhal" /></a> </p>
 
-- 🔭 I’m proficient in Python with a keen interest towards ML. [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository)
-
-- 🌱 I’m currently learning **Web Devlopment/LLMs** and honing my skills on Data manipulation and visualization.
-
-- 💬 Ask me about **RAG, LLMs, Web Development, Meteorology, Data Analysis and Statistics.**.
+- 🔭 Mostly interested in NLP/Web Development. You can go through my [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository), plenty of output images there.
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
-- 📄 Visit [Language Transliteration app](https://huggingface.co/spaces/DebasishDhal99/The-Language-Transliteration-Project), [YouTube playlist app](https://huggingface.co/spaces/DebasishDhal99/Youtube_Playlist) or [Random Walk app](https://huggingface.co/spaces/DebasishDhal99/Random-Walk-Visualization) on HuggingFace.
+- 📄 Visit my [HuggingFace](https://huggingface.co/spaces/DebasishDhal99) for some of my live small projects.
 
 - My few Open-Source contributions are on digital products regularly used by me. They are not hard solutions, but suggestions that can improve them.
 
@@ -50,7 +47,9 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="40" height="40"/> </a>     
 <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematician" width="40" height="40"/> </a>         
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mathematician" width="40" height="40"/> </a>         
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mathematician" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elastic search" width="40" height="40"/> </a>
+<a href="https://unsloth.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/made%20with%20unsloth.png" alt="unsloth" width="80" height="40"/> </a>
   
 </p>
 
