@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
-- 📄 Visit my [HuggingFace](https://huggingface.co/spaces/DebasishDhal99) for some of my live small projects.
+- 📄 Visit my [HuggingFace](https://huggingface.co/DebasishDhal99) for some of my live small projects.
 
 - My few Open-Source contributions are on digital products regularly used by me. They are not hard solutions, but suggestions that can improve them.
 
