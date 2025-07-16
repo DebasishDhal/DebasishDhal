@@ -48,10 +48,18 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="40" height="40"/> </a>     
 <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematician" width="40" height="40"/> </a>         
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mathematician" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elastic search" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0" alt="langchain" width="40" height="40"/> </a>
 <a href="https://unsloth.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/made%20with%20unsloth.png" alt="unsloth" width="80" height="40"/> </a>
+<a href="https://wandb.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAemfrkbPHO6GxM6ocEiVAL52BrOJ-9VUF4Q&s" alt="unsloth" width="80" height="40"/> </a>
 <a href="https://react-leaflet.js.org/" target="_blank" rel="noreferrer"> <img src="https://react-leaflet.js.org/img/logo-title.svg" alt="react-leaflet" width="80" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://answerrocket.com/wp-content/uploads/amazon-ec2-logo-625x345-1.svg" alt="aws-ec2" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/491/3822491-middle.png" alt="aws-dynamodb" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="aws-s3" width="80" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishdhal&show_icons=true&locale=en&layout=compact" alt="debasishdhal" /></p>
