@@ -59,7 +59,8 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="80" height="40"/> </a>
 <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://answerrocket.com/wp-content/uploads/amazon-ec2-logo-625x345-1.svg" alt="aws-ec2" width="80" height="40"/> </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/491/3822491-middle.png" alt="aws-dynamodb" width="80" height="40"/> </a>
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="aws-s3" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="aws-s3" width="80" height="40"/> </a>
+<a href="https://docs.aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" alt="aws-lambda" width="80" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishdhal&show_icons=true&locale=en&layout=compact" alt="debasishdhal" /></p>
