@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debasish Dhal</h1>
-<h3 align="center">I'm a MSc. graduate in Physics from National Institute of Science Education and Research (<a href="https://www.niser.ac.in/" target="_blank">NISER</a>), Odisha, India.</h3>
-<h3 align="center">I work with <a href="https://huggingface.co/OdiaGenAI" target="_blank">OdiaGenAI</a> on LLM fine-tuning, dataset building, Quantization, etc.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasishdhal&label=Profile%20views&color=0e75b6&style=flat" alt="debasishdhal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishdhal" alt="debasishdhal" /></a> </p>
 
-- 🔭 Mostly interested in NLP/Web Development. You can go through my [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository), plenty of output images there.
+- 🔭 Mostly interested in NLP/LLM/Web Development. You can go through my [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository), plenty of output images there.
 
 - 📫 How to reach me **debasishdhal99ddhal@gmail.com**
 
@@ -51,6 +50,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mathematician" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elastic search" width="40" height="40"/> </a>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pinecone-Full-Logo-Black.svg/1200px-Pinecone-Full-Logo-Black.svg.png?20231023022501" alt="pinecone" width="80" height="60"/> </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0" alt="langchain" width="40" height="40"/> </a>
 <a href="https://unsloth.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/made%20with%20unsloth.png" alt="unsloth" width="80" height="40"/> </a>
 <a href="https://wandb.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAemfrkbPHO6GxM6ocEiVAL52BrOJ-9VUF4Q&s" alt="unsloth" width="80" height="40"/> </a>
