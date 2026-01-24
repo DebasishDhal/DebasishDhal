@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasishdhal&label=Profile%20views&color=0e75b6&style=flat" alt="debasishdhal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasishdhal" alt="debasishdhal" /></a> </p>
+
 
 - 🔭 Mostly interested in NLP/LLM/Web Development. You can go through my [Master's thesis project](https://github.com/DebasishDhal/Thesis_Repository), plenty of output images there.
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://huggingface.co/DebasishDhal99" target="blank"><img align="center" src="images/hugging-face-emoji-507x512-v7kpw0rw.png" alt="debasishdhal" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=ws7-da8AAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" alt="debasishdhal" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=ws7-da8AAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1280px-Google_Scholar_logo.svg.png?20200110094142" alt="debasishdhal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debasish-dhal-47644b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasish-dhal-47644b213" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dd99_dunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dd99_dunder" height="30" width="40" /></a>
 <a href="https://twitter.com/therealaccoundd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealaccoundd" height="30" width="40" /></a>
