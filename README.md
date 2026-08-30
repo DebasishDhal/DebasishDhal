@@ -12,6 +12,7 @@
 - 📄 Visit my [HuggingFace](https://huggingface.co/DebasishDhal99) for some of my live small projects.
 
 - My few Open-Source contributions are on digital products regularly used by me. They are not hard solutions, but suggestions that can improve them.
+- "_DO NOT TOUCH A WORKING PIPELINE FOR NO REASON_": Acharya Chanakya
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
